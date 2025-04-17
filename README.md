@@ -27,4 +27,5 @@ A smart donation platform built with **Django** where users can create posts for
 ---
 
 ## 📁 Project Structure
+BDG/ ├── Blood-Donation/ # Django project root ├── accounts/ # User authentication and management ├── media/ # Uploaded media files ├── newsfeed/ # Post creation, comment system ├── profiles/ # User profile and donor data ├── static/ # Static files (CSS, JS, images) ├── templates/ # HTML templates ├── db.sqlite3 # SQLite database └── manage.py # Django management script
 
